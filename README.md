@@ -18,8 +18,8 @@ Hi, I'm Jiachuan Wu!
 https://github.com/kingsoneight
 -------------------------
 💻 I am a passionate Software Engineer
-📚 I have a Bachelors in Computer Science from Boston University
-📝 I am currently working on mobile app development and full stack development
+📚 I am pursuing Master of Computer Science in Northeastern University, and I have a Bachelors in Computer Science from Boston University
+📝 I am currently working on back end development and mobile app development
 🌟 Main languages: Java, C, Python, JavaScript
 🎵 Love metal and classical music
 ```
