@@ -1,52 +1,66 @@
-
-<h1 align="center">
-Hi, I'm Jiachuan Wu!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
-  </a> 
-<br/>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Back+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-```
-https://github.com/kingsoneight
--------------------------
-💻 I am a passionate Software Engineer
-📚 I am pursuing Master of Computer Science in Northeastern University
-📝 I am currently working on back end development and mobile app development
-🌟 Main languages: Java, C, Python, JavaScript
-🎵 Love metal and classical music
-```
-<br/>
-<hr>
-
-
-
-
-
-## 🛠️ Some Tools I Used
-
-### 👨‍💻 Programming Languages
+<h1 align="center">Hi, I'm Jiachuan Wu 👋</h1>
 
 <p align="center">
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="Ocaml" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" />
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" alt="RStudio" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Backend+%26+Distributed+Systems+Engineer;M.S.+CS+%40+Northeastern+University;Cloud+%E2%80%A2+Infrastructure+%E2%80%A2+AI+Agents" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jiachuan-kingson-wu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn" /></a>
+  <a href="mailto:kingsonwu0209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
+
+### 🙋 About Me
+
+- 🎓 M.S. in Computer Science @ **Northeastern University** (Dec 2026) · B.S. in CS @ **Boston University**
+- ☁️ Previously SWE intern @ **Amazon Web Services** (Elastic File System) and **Cisco (Splunk)**
+- 🔧 Interested in backend systems, distributed systems, cloud infrastructure, and LLM-powered ops tooling
+- 📄 Co-author of **RCAL**, published at **ICASSP 2026**
+- 🎵 Metal and classical music fan
+
+---
+
+### 💼 Experience
+
+**Amazon Web Services — Elastic File System** · Software Engineer Intern · *Summer 2026*
+Built an internal ops agent that supports on-call workflows and automates TPS quota-increase approvals (turnaround cut from **3 days to 10 minutes**), backed by a self-updating knowledge base from 200+ past tickets, a staging load-testing skill, and CloudWatch dashboards with alarms.
+
+**Cisco Systems (Splunk)** · Software Engineer Intern · *Fall 2025*
+Built an event-driven Dead Letter Queue remediation pipeline with Argo Workflows across AWS, Azure and GCP, reducing MTTR by **95%**. Worked with Terraform, Puppet, Prometheus and Grafana.
+
+**Spark! Launch Lab** · Software Engineer Intern · *Fall 2024*
+Built a cross-platform social fitness app in React Native + TypeScript with Firebase Auth, Firestore, Redis caching and GitHub Actions CI/CD.
+
+**Boston University Research Computing Services** · Software Engineer Intern · *Spring 2024*
+Automated cluster batch testing with Bash scripts integrated into HPC scheduling systems.
+
+---
+
+### 📄 Publication
+
+**RCAL: Reinforced Cross-Modal Alignment for Multimodal Sentiment Analysis with Sparse Visual Frames**
+*ICASSP 2026* · Third author · [Code](https://github.com/XinweiSong1018/RCAL) · [Paper](https://ieeexplore.ieee.org/document/11461715)
+
+A vision-centric multimodal fusion framework in PyTorch with iterative memory refinement and a reinforcement-learned gating mechanism, designed for sentiment analysis when visual input is sparse. Evaluated on MOSI, MOSEI and CH-SIMS.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,python,cpp,c,ts,js,bash" />
+</p>
+
+**Cloud & Infra**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,linux" />
+</p>
+
+**Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,spring,django,flask,nodejs,react,redis,firebase,githubactions" />
+</p>
